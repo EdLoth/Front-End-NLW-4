@@ -17,7 +17,6 @@ export function ChallangeBox() {
                         <strong>Novo Desafio</strong>
                         <p>{activeChallange.description}</p>
                     </main>
-
                     <footer>
                        <button
                        type="button"
