@@ -50,7 +50,6 @@ export function ChallangesProvider({ children }: ChallangesProviderProps) {
   function resetChallange() {
       setActiveChallange(null)
   }
-
   return(
     <ChallangesContext.Provider value={{ 
         level, 
