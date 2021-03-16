@@ -11,7 +11,6 @@ export default function ExperienceBar() {
             <span>0 Exp</span>
             <div >
                 <div style={{ width: `${percentToNextLever}%`}} />
-
                 <span 
                 className={styles.currentExperience} 
                 style={{left: `${percentToNextLever}%`}
