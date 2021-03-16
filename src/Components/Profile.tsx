@@ -8,8 +8,8 @@ export default function Profile() {
             <div>
                 <strong>Eduardo Ramos</strong>
                 <p>
-                    <img src="icons/level.svg" alt="level"/>
-                    Level 1
+                   <img src="icons/level.svg" alt="level"/>
+                   Level 1
                 </p>
             </div>
         </div>
