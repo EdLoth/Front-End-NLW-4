@@ -69,7 +69,6 @@ export default function Countdown() {
                 >
                     Abandonar ciclo
                 </button>
-
                 ) : (
                     <button
                         type="button"
